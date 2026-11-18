@@ -1,7 +1,7 @@
 # CUSTOMATE
 ## Customs Document Automation
 
-A Python workflow for preparing **Surat Keterangan Barang** supporting customs documentation.
+A Python workflow for preparing **Surat Keterangan Barang Bea Cukai** supporting customs documentation.
 
 By **Azaria Syahla Fitan Adibah**.
 
